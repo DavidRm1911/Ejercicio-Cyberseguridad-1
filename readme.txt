@@ -1,0 +1,2 @@
+Para este ejercicio, hice uso de bash, nombre del archivo = hola.sh, ejecutandolo llegue a la conclusion, de que el archivo alterado fue. log.txt 
+Ademas tambien use el comando md5sum por separado para verificar
